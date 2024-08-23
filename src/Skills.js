@@ -5,9 +5,15 @@ function Skills() {
     <div>
       <h1>Skills</h1>
       <ul>
-        <li>Skill 1</li>
-        <li>Skill 2</li>
-        <li>Skill 3</li>
+        <li>Java</li>
+        <li>C</li>
+        <li>C++</li>
+        <li>Python</li>
+        <li>HTML</li>
+        <li>CSS</li>
+        <li>JavaScript</li>
+        <li>SQL</li>
+        <li>SQL</li>
       </ul>
     </div>
   );
