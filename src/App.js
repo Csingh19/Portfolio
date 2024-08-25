@@ -26,10 +26,11 @@ function App() {
               <h1>Chirayu Singh</h1>
             </header>
             <section><About /></section>
-            <section><Projects /></section>
-            <section><Experience /></section>
-            <section><Skills /></section>
             <section><Contact /></section>
+            <section><Projects /></section>
+            {/*<section><Experience /></section>*/}
+            {/*<section><Skills /></section>*/}
+            
             <footer>
               © {new Date().getFullYear()} Chirayu Singh. All rights reserved.
             </footer>
